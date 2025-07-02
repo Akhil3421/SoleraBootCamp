@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\webapiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\webapiexample\\controllers\\traineescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|solutionrelative:controllers\\traineescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\webapiexample\\traineecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|solutionrelative:traineecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\webapiexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\webapiexample\\model\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|solutionrelative:model\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\webapiexample\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E26A2-B2C4-4EF9-AC9F-3E3DBB939BEE}|WebAPIExample.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TraineesController.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\Controllers\\TraineesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TraineesController.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\Controllers\\TraineesController.cs",
+              "RelativeToolTip": "Controllers\\TraineesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:40:11.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T11:06:41.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TraineeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\TraineeContext.cs",
+              "RelativeDocumentMoniker": "TraineeContext.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\TraineeContext.cs",
+              "RelativeToolTip": "TraineeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:03:41.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\Model\\Trainee.cs",
+              "RelativeDocumentMoniker": "Model\\Trainee.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\Model\\Trainee.cs",
+              "RelativeToolTip": "Model\\Trainee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:02:11.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:08:21.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\WebAPIExample\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:05:33.376Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
