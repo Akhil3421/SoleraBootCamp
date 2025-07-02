@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\entitiycoremysqlexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\entitiycoremysqlexample\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|solutionrelative:mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\entitiycoremysqlexample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\entitiycoremysqlexample\\entityoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|solutionrelative:entityoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\entitiycoremysqlexample\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|solutionrelative:author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\entitiycoremysqlexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4A24060-4C9F-48B5-89E2-216745275589}|EntitiyCoreMySQLExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T11:31:40.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\Author.cs",
+              "RelativeDocumentMoniker": "Author.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\Author.cs",
+              "RelativeToolTip": "Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:26:40.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\MyDbContext.cs",
+              "RelativeToolTip": "MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:26:46.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\EntityOperations.cs",
+              "RelativeDocumentMoniker": "EntityOperations.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\EntityOperations.cs",
+              "RelativeToolTip": "EntityOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:26:42.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:26:37.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\EntitiyCoreMySQLExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:23:12.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
