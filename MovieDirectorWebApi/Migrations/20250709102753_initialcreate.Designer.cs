@@ -11,8 +11,8 @@ using MovieDirectorWebApi;
 namespace MovieDirectorWebApi.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20250709035935_intialcreate")]
-    partial class intialcreate
+    [Migration("20250709102753_initialcreate")]
+    partial class initialcreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

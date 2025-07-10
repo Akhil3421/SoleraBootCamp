@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using MovieDirectorWebApi;
+using System.Drawing.Printing;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -35,3 +37,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+

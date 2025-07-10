@@ -25,7 +25,9 @@ namespace MovieDirectorWebApi.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<MovieDTO>>> GetMovies()
         {
-            return await _context.Movies.Select(movie=>new MovieDTO { Title = movie.Title, MovieId = movie.MovieId, DirectorIds = movie.Director.Select(dir=>dir.DirId).ToList()}).ToListAsync();
+            return await _context.Movies.
+                Select(movie=>new MovieDTO { Title = movie.Title, MovieId = movie.MovieId, DirectorIds = movie.Director.
+                Select(dir=>dir.DirId).ToList()}).ToListAsync();
         }
 
         // GET: api/Movies/5
@@ -45,17 +47,46 @@ namespace MovieDirectorWebApi.Controllers
         // PUT: api/Movies/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutMovie(int id, Movie movie)
+        public async Task<IActionResult> PutMovie(int id, MovieDTO mDTO)
         {
-            if (id != movie.MovieId)
+            if (id != mDTO.MovieId)
             {
                 return BadRequest();
             }
 
-            _context.Entry(movie).State = EntityState.Modified;
+            var movie = await _context.Movies.Include(m => m.Director).FirstOrDefaultAsync(m => m.MovieId == id);
+
+            if (movie == null)
+            {
+                return NotFound();
+            }
+            
+            movie.Title = mDTO.Title;
+            movie.Director.Clear();
+
+            List<Director> updatedDirectors = new List<Director>();
+            foreach (var dirId in mDTO.DirectorIds)
+            {
+                var director = await _context.Directors.FirstOrDefaultAsync(d => d.DirId == dirId);
+                if (director != null)
+                {
+                    updatedDirectors.Add(director);
+                }
+            }
+            movie.Director = updatedDirectors;
+
+            foreach (var director in updatedDirectors)
+            {
+                if (!director.Movies.Contains(movie))
+                {
+                    director.Movies.Add(movie);
+                }
+            }
 
             try
             {
+                // Mark movie entity as modified and save changes
+                _context.Entry(movie).State = EntityState.Modified;
                 await _context.SaveChangesAsync();
             }
             catch (DbUpdateConcurrencyException)
@@ -70,12 +101,14 @@ namespace MovieDirectorWebApi.Controllers
                 }
             }
 
+
             return NoContent();
         }
 
         // POST: api/Movies
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
+
         public async Task<ActionResult<Movie>> PostMovie(MovieDTO mov)
         {
             List<Director> dirs = new List<Director>();

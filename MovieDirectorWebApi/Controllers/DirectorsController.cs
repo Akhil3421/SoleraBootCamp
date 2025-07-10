@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.AccessControl;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -36,7 +37,7 @@ namespace MovieDirectorWebApi.Controllers
                         Title = mov.Title,
                         MovieId = mov.MovieId
                     }).ToList()
-                                    })
+                    })
                     .ToListAsync();
         }
 
@@ -105,10 +106,20 @@ namespace MovieDirectorWebApi.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteDirector(int id)
         {
-            var director = await _context.Directors.FindAsync(id);
+            var director = await _context.Directors
+                                         .Include(d => d.Movies)
+                                         .FirstOrDefaultAsync(d => d.DirId == id);
+
             if (director == null)
             {
                 return NotFound();
+            }
+
+            // Optional: delete related movies or detach them
+            // _context.Movies.RemoveRange(director.Movies); // if you want to delete movies
+            foreach (var movie in director.Movies)
+            {
+                movie.Director.Remove(director); // if it's a many-to-many
             }
 
             _context.Directors.Remove(director);
@@ -116,6 +127,7 @@ namespace MovieDirectorWebApi.Controllers
 
             return NoContent();
         }
+
 
         private bool DirectorExists(int id)
         {

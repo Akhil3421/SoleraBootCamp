@@ -3,26 +3,70 @@
   "WorkspaceRootPath": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\createdirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\createdirector.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,55 +77,39 @@
       "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:dto\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\moviedirectorwebclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\moviedirectorwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:moviedirectorwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5158892-DB89-45A7-9367-EA3D400FDCB1}|..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebclient\\moviedirectorwebclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\moviedirectorwebapi\\migrations\\20250709102753_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:migrations\\20250709102753_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,7 +119,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,59 +127,349 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T09:17:32.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:19:05.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:17:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T11:38:57.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Index.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:38:52.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MovieDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\DTO\\MovieDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\MovieDTO.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\DTO\\MovieDTO.cs",
-              "RelativeToolTip": "DTO\\MovieDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T03:33:28.995Z",
+              "WhenOpened": "2025-07-08T11:39:50.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Create.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:39:37.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Models\\DTO.cs",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Models\\DTO.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Models\\DTO.cs",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Models\\DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:26:53.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Director.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Director.cs",
-              "RelativeDocumentMoniker": "Director.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Director.cs",
-              "RelativeToolTip": "Director.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T04:46:20.295Z",
-              "EditorCaption": ""
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T09:32:03.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:00:19.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:40:41.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateDirector.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\CreateDirector.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\CreateDirector.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\CreateDirector.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\CreateDirector.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T09:22:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Movie.cs",
+              "RelativeToolTip": "Movie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:41:18.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Error.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T07:18:56.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Services\\ApiService.cs",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Services\\ApiService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAxwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:21:59.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T09:18:54.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Program.cs",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:18:29.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Privacy.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Privacy.cshtml.cs",
               "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Privacy.cshtml.cs",
               "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Privacy.cshtml.cs",
               "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Privacy.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T08:47:52.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:47:52.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\appsettings.json",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\appsettings.json",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T04:56:25.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateDirector.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\CreateDirector.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\CreateDirector.cshtml.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\CreateDirector.cshtml.cs",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\CreateDirector.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:22:40.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\DTO\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\DTO\\MovieDTO.cs",
+              "RelativeToolTip": "DTO\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:33:28.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DirectorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\DTO\\DirectorDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DirectorDTO.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\DTO\\DirectorDTO.cs",
+              "RelativeToolTip": "DTO\\DirectorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:25:36.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Director.cs",
+              "RelativeDocumentMoniker": "Director.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Director.cs",
+              "RelativeToolTip": "Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:46:20.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DirectorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Controllers\\DirectorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DirectorsController.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Controllers\\DirectorsController.cs",
+              "RelativeToolTip": "Controllers\\DirectorsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:44:02.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:02:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\MyDbContext.cs",
+              "RelativeToolTip": "MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:49:44.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T11:42:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250709102753_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Migrations\\20250709102753_initialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250709102753_initialcreate.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Migrations\\20250709102753_initialcreate.cs",
+              "RelativeToolTip": "Migrations\\20250709102753_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:27:53.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Error.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Error.cshtml.cs",
               "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Error.cshtml.cs",
@@ -159,77 +477,23 @@
               "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Error.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T07:18:46.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:18:46.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Error.cshtml",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T07:18:56.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T09:32:05.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Create.cshtml.cs",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Create.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:39:50.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Create.cshtml",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Create.cshtml",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Create.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBIAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T11:39:37.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DirectorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\DTO\\DirectorDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\DirectorDTO.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\DTO\\DirectorDTO.cs",
-              "RelativeToolTip": "DTO\\DirectorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T03:25:36.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Index.cshtml",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T11:38:52.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Privacy.cshtml",
@@ -237,38 +501,11 @@
               "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T07:18:53.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:18:53.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Services\\ApiService.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Services\\ApiService.cs",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Services\\ApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:21:59.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Program.cs",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Program.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Program.cs",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:18:29.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "Director.cs",
               "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Models\\Director.cs",
               "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Models\\Director.cs",
@@ -276,138 +513,19 @@
               "RelativeToolTip": "..\\MovieDirectorWebClient\\Models\\Director.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:21:10.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T11:21:10.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswBsAAACwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T04:00:19.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Models\\Movie.cs",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:20:42.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DTO.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Models\\DTO.cs",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Models\\DTO.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Models\\DTO.cs",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Models\\DTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:26:53.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DirectorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Controllers\\DirectorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DirectorsController.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Controllers\\DirectorsController.cs",
-              "RelativeToolTip": "Controllers\\DirectorsController.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAkwHIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T04:00:54.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MovieDirectorWebClient",
+              "DocumentIndex": 31,
+              "Title": "MovieDirectorWebClient.csproj",
               "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj",
               "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj",
               "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj",
               "RelativeToolTip": "..\\MovieDirectorWebClient\\MovieDirectorWebClient.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-09T06:25:38.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T05:02:02.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Movie.cs",
-              "RelativeDocumentMoniker": "Movie.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\Movie.cs",
-              "RelativeToolTip": "Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T04:41:18.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MovieDirectorWebApi.http",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\MovieDirectorWebApi.http",
-              "RelativeDocumentMoniker": "MovieDirectorWebApi.http",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\MovieDirectorWebApi.http",
-              "RelativeToolTip": "MovieDirectorWebApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-09T04:01:01.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebApi\\MyDbContext.cs",
-              "RelativeToolTip": "MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T04:49:44.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "..\\MovieDirectorWebClient\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\MovieDirectorWebClient\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "..\\MovieDirectorWebClient\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T11:40:41.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:25:38.694Z"
             }
           ]
         }
