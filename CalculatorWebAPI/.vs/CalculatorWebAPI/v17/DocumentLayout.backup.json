@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F985F872-63E0-4721-8FF9-A210DE2E4896}|..\\CalculatorTests1\\CalculatorTests1.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\calculatortests1\\controller\\calculatorscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\calculatorwebapi\\controller\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|solutionrelative:controller\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F985F872-63E0-4721-8FF9-A210DE2E4896}|..\\CalculatorTests1\\CalculatorTests1.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\calculatortests1\\services\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\calculatorwebapi\\models\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|solutionrelative:models\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\calculatorwebapi\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|solutionrelative:models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\calculatorwebapi\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|solutionrelative:services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|c:\\users\\akhil.punna\\downloads\\.net traning\\calculatorwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7C802B-27E5-42B2-B617-37D96610EC92}|CalculatorWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorTests1\\Controller\\CalculatorsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorTests1\\Controller\\CalculatorsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorTests1\\Controller\\CalculatorsControllerTests.cs",
+              "RelativeToolTip": "..\\CalculatorTests1\\Controller\\CalculatorsControllerTests.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwFcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:55:21.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorTests1\\Services\\CalculatorServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorTests1\\Services\\CalculatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorTests1\\Services\\CalculatorServiceTests.cs",
+              "RelativeToolTip": "..\\CalculatorTests1\\Services\\CalculatorServiceTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA2wBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:35:10.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "Services\\CalculatorService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:32:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Controller\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Controller\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Controller\\CalculatorController.cs",
+              "RelativeToolTip": "Controller\\CalculatorController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:32:43.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorContext.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Models\\CalculatorContext.cs",
+              "RelativeDocumentMoniker": "Models\\CalculatorContext.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Models\\CalculatorContext.cs",
+              "RelativeToolTip": "Models\\CalculatorContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:22:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Models\\Calculator.cs",
+              "RelativeDocumentMoniker": "Models\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Models\\Calculator.cs",
+              "RelativeToolTip": "Models\\Calculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:16:01.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Akhil.Punna\\Downloads\\.Net traning\\CalculatorWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:28:28.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
